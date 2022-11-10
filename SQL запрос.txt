@@ -1,0 +1,2 @@
+1. SELECT ProductName,Category Name FROM NameTable или но при условии что таблица состоит только 
+из двух данных слобцов, то можно написать такой запрос: SELECT * FROM NameTable.
